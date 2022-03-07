@@ -48,6 +48,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -304,6 +305,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      dennis_ball_mirror-removebg-preview_0: 182510838598984906
+      dennis_ball_mirror-removebg-preview_7: -5121932125229629689
+      dennis_ball_mirror-removebg-preview_2: 7078299085644999368
+      dennis_ball_mirror-removebg-preview_1: 264833981113273625
+      dennis_ball_mirror-removebg-preview_5: 3184163369925699789
+      dennis_ball_mirror-removebg-preview_3: -8030016765649747544
+      dennis_ball_mirror-removebg-preview_6: 6813277582068328890
+      dennis_ball_mirror-removebg-preview_4: 759578095889787341
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

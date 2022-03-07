@@ -7,7 +7,7 @@ public class TapToPlay : MonoBehaviour
 {
     void OnMouseDown()
     {
-        SceneManager.LoadScene("Scene1");
+        SceneManager.LoadScene("Scene2");
     }
 
 }
