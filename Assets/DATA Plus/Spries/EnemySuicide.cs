@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-[RequireComponent(typeof(EnemyHealth))]
+//[RequireComponent(typeof(EnemyHealth))]
 public class EnemySuicide : MonoBehaviour
 {
     public int damage;
