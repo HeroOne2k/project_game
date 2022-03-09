@@ -4,16 +4,16 @@ using UnityEngine;
 
 public class Blinking1 : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public float interval;
+
     private SpriteRenderer render;
 
     private void Start()
     {
         render = GetComponent<SpriteRenderer>();
+        InvokeRepeating(nameof(SwitchState), 0, interval);
     }
 
-    private void Update()
-    {
-        render.enabled = !render.enabled;
-    }
+    private void SwitchState() => render.enabled = !render.enabled;
+
 }
