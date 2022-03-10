@@ -147,7 +147,7 @@ CapsuleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0.050424576, y: 0.013127446}
@@ -188,6 +188,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 10
   deathEffect: {fileID: 8025303585008908751, guid: 36544af4eb1119b4780f2f4d1c5794ec, type: 3}
+  reward: {fileID: 6756466703169524635, guid: 116d94535fa23e84abf03e1e3e5e9102, type: 3}
 --- !u!114 &3771717489975668021
 MonoBehaviour:
   m_ObjectHideFlags: 0

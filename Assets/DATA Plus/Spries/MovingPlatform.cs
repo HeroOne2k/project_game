@@ -36,4 +36,14 @@ public class MovingPlatform : MonoBehaviour
         Gizmos.color = Color.green;
         Gizmos.DrawLine(beginPoint.position, endPoint.position);
     }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        collision.transform.SetParent(transform);
+    }
+
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        collision.transform.SetParent(null);
+    }
 }

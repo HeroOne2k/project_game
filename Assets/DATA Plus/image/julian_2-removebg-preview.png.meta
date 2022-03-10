@@ -1,0 +1,1172 @@
+fileFormatVersion: 2
+guid: aad20bf5636dd8c4480adaba80a19a3a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 344
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416aea792455d1a4e8582f8794a58604
+      internalID: -1349798071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 352
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869fbefb201e4824b94260f2bab2b9da
+      internalID: -1476651858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 344
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8cefc9ce1d4574c89b6ed099714810
+      internalID: 266519378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 344
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b5dd8bb181f094fb46a85e863f5a71
+      internalID: 116170217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 344
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be407dfaac8158247833388faf3b3505
+      internalID: -1032977964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 344
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd9508d232aed441bf10eb58f93229d
+      internalID: -2114008366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 345
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bec6b1f26c45554bb445b1494c2f6b9
+      internalID: 2070423010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 366
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90bb4b01fffb6c4d80d264ccd5e1a26
+      internalID: -384354914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 371
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f00ede4298f8b42963cf8fff4caad3
+      internalID: 1302757645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 272
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64af5148a68ae6043b1b48ddb0f38005
+      internalID: 1107668336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 273
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac51a8a02a752e43b88222ed43b4944
+      internalID: 608610078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 273
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad001dc4b0304c4fb6b906a22a584a4
+      internalID: -1370663863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 269
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55e8a5eb46964d469cd5869a5c0edab
+      internalID: -101965840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 269
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d11a02867ad26041aacb1272eca298a
+      internalID: -407728695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 269
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df90157d401e384683ebbcc594f0be7
+      internalID: 1056798641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 269
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486faa1733515e74b99c5237d42082c1
+      internalID: -1144475507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 269
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9105d6b85bc635c44ac07163a500058f
+      internalID: -394774946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 269
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0478b6b27b7fbbb409d28d31310c19c8
+      internalID: 1154676044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 194
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19b22b53d6950e4da672af6e8a225bb
+      internalID: 132945229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 194
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdef7da14c23a84f916c60b80365858
+      internalID: -529254293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 194
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7c9e78c2df2aa4ca6c472a19f1839c
+      internalID: -862860040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 194
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebf85bb01a1f3c4893760aed018ce1d
+      internalID: 328647379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 195
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efd9fdd0e31b80409d052cc5dce785b
+      internalID: -1041585265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 194
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a550221651c9a24187b21e322cba071
+      internalID: 1142278624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 194
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb7c5989158bbb44b141eb1b51e6230
+      internalID: -288968065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 194
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c16c4815826a5489b5d0002814be77
+      internalID: -1867063995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 194
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19babf56a2dc907419738b6746cbf93d
+      internalID: 85342390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 194
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48e138e5b4e11742b2c6a81afdb13be
+      internalID: 1629411743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 120
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e1a7e3c7b01a049ac84644891970f7
+      internalID: -1476880323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 120
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1e28b2060d87e428aa9f75b60413fc
+      internalID: 1749145857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 120
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdadc33df22e6b41ae7e7825f9a4709
+      internalID: -2140041020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 120
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5542581ac642ee9479a6e0bb373541c0
+      internalID: 1235659077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 120
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb4b7348dbb98a42b7aa4eaa6856d52
+      internalID: 1906388177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 119
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368bd42c254a5ee46b1d291011f21798
+      internalID: 1479640874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 120
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ed117772d85354b9961903a48ccbcc
+      internalID: 1923584388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 120
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34daf3f09cd9b2b4aa2dc7e44dfa798f
+      internalID: 888917784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 120
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5008bae0f0bf3f1498a6466e8d27dbb0
+      internalID: -823129429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 120
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792028c551f5d904ebea1aea6d2d4e14
+      internalID: -508372370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 45
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74829589dc1d49246a16faf26d67af0b
+      internalID: 638010318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 45
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc27ee4633824b148807dc4a175d99bd
+      internalID: -1871136535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 45
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0926d6d39ec6e7c4ba596498b028ba8a
+      internalID: -444233475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 45
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7ef5466bf3f524282275ebe5e297b3
+      internalID: 947547531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 45
+        width: 51
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71494879e001be44b04a8e189c8b36e
+      internalID: 613180268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 45
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32de1d3fd69be274287f82949db714e0
+      internalID: 1407937529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 45
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db224df4b1adc0946a32530a36cbde12
+      internalID: -776084753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 45
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df5a83ce8dee2341a51a4015ba898fe
+      internalID: 134064840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: julian_2-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 45
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39966976b5b2d214eb2d32c56ea6c871
+      internalID: 1865240828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      julian_2-removebg-preview_33: -2140041020
+      julian_2-removebg-preview_32: 1749145857
+      julian_2-removebg-preview_45: 947547531
+      julian_2-removebg-preview_31: -1476880323
+      julian_2-removebg-preview_20: -529254293
+      julian_2-removebg-preview_3: 116170217
+      julian_2-removebg-preview_18: 1154676044
+      julian_2-removebg-preview_50: 1865240828
+      julian_2-removebg-preview_7: 159185328
+      julian_2-removebg-preview_29: 946288705
+      julian_2-removebg-preview_28: 1629411743
+      julian_2-removebg-preview_9: 1302757645
+      julian_2-removebg-preview_38: 1923584388
+      julian_2-removebg-preview_12: -1370663863
+      julian_2-removebg-preview_21: -862860040
+      julian_2-removebg-preview_36: -1943025717
+      julian_2-removebg-preview_15: 1056798641
+      julian_2-removebg-preview_25: -288968065
+      julian_2-removebg-preview_23: -1041585265
+      julian_2-removebg-preview_17: -394774946
+      julian_2-removebg-preview_4: -1032977964
+      julian_2-removebg-preview_42: 638010318
+      julian_2-removebg-preview_34: 1235659077
+      julian_2-removebg-preview_22: 328647379
+      julian_2-removebg-preview_27: 85342390
+      julian_2-removebg-preview_30: 539479982
+      julian_2-removebg-preview_43: -1871136535
+      julian_2-removebg-preview_2: 266519378
+      julian_2-removebg-preview_44: -444233475
+      julian_2-removebg-preview_35: 1906388177
+      julian_2-removebg-preview_0: -1349798071
+      julian_2-removebg-preview_19: 132945229
+      julian_2-removebg-preview_46: 613180268
+      julian_2-removebg-preview_16: -1144475507
+      julian_2-removebg-preview_49: 134064840
+      julian_2-removebg-preview_10: 1107668336
+      julian_2-removebg-preview_24: 1142278624
+      julian_2-removebg-preview_1: -1476651858
+      julian_2-removebg-preview_40: -823129429
+      julian_2-removebg-preview_41: -508372370
+      julian_2-removebg-preview_5: -2114008366
+      julian_2-removebg-preview_14: -407728695
+      julian_2-removebg-preview_39: 888917784
+      julian_2-removebg-preview_8: -384354914
+      julian_2-removebg-preview_47: 1407937529
+      julian_2-removebg-preview_37: 1479640874
+      julian_2-removebg-preview_26: -1867063995
+      julian_2-removebg-preview_6: 2070423010
+      julian_2-removebg-preview_13: -101965840
+      julian_2-removebg-preview_11: 608610078
+      julian_2-removebg-preview_48: -776084753
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
