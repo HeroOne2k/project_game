@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 7234649502167016136}
   - component: {fileID: 7234649502167016138}
   - component: {fileID: 7234649502167016141}
+  - component: {fileID: 752780575}
   m_Layer: 0
   m_Name: julian Boss
   m_TagString: Untagged
@@ -182,10 +183,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c66609c3acec70f4780950b62e371d20, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  attackDamage: 5
-  enragedAttackDamage: 10
+  attackDamage: 1
+  enragedAttackDamage: 2
   attackOffset: {x: -0.5, y: 0.2, z: 0}
-  attackRange: 1
+  attackRange: 6
   attackMask:
     serializedVersion: 2
     m_Bits: 64
+--- !u!114 &752780575
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7234649502167016132}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5268cf28f82bee4488fc9022303200a3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 200
+  deathEffect: {fileID: 8025303585008908751, guid: 36544af4eb1119b4780f2f4d1c5794ec, type: 3}
+  reward: {fileID: 0}

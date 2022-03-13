@@ -125,6 +125,14 @@ public class Health : MonoBehaviour
             Destroy(collision.gameObject);
             Debug.Log("healing + 5HP");
         }
+
+        //Code Coin Gold Touch
+        if(collision.gameObject.CompareTag("Coins"))
+        {
+            Destroy(collision.gameObject);
+            Debug.Log("Coin + 1");
+        }
+
     }
 
 
