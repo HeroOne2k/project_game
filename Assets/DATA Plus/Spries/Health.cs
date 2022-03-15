@@ -78,7 +78,7 @@ public class Health : MonoBehaviour
         if (HealthPoint < maxHealthPoint && HealthPoint >= 0)
         {
             //hearts[HealthPoint].gameObject.SetActive(true);
-            healthPointValue += 5;
+            HealthPoint += 5;
         }
 
     }

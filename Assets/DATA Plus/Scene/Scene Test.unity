@@ -5071,7 +5071,19 @@ MonoBehaviour:
       m_Calls: []
   onHealthChanged:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1003699409}
+        m_TargetAssemblyTypeName: HPBar, Assembly-CSharp
+        m_MethodName: OnHpChanged
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   shield: {fileID: 1706988395}
 --- !u!1 &220390389
 GameObject:
@@ -17479,7 +17491,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.3333334, y: 1}
+    m_SensorSize: {x: 2.1213872, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -28860,6 +28872,17 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1003699409 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6231187872724360488, guid: fcd66e04f526b2544a8a76fd799e0cb9, type: 3}
+  m_PrefabInstance: {fileID: 1256763958}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d466a43512616ac4682f981d62c293da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1009900502
 GameObject:
   m_ObjectHideFlags: 0
@@ -36357,6 +36380,10 @@ PrefabInstance:
       propertyPath: health
       value: 
       objectReference: {fileID: 207868290}
+    - target: {fileID: 6231187874240676645, guid: fcd66e04f526b2544a8a76fd799e0cb9, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 111.59009
+      objectReference: {fileID: 0}
     - target: {fileID: 6231187874286173790, guid: fcd66e04f526b2544a8a76fd799e0cb9, type: 3}
       propertyPath: m_Pivot.x
       value: 0
