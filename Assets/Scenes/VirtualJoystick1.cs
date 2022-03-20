@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-public class VirtualJoystick1 : MonoBehaviour
+public class VirtualJoystick : MonoBehaviour
 {
     public Transform circle;
     public float radius;

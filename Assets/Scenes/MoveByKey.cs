@@ -14,7 +14,7 @@ public class MoveByKey : MonoBehaviour
     public LayerMask groundLayers;
     public Transform body;
     public Animator anim;
-    public VirtualJoystick1 joystick;
+    public VirtualJoystick2 joystick;
 
 
 
