@@ -5,7 +5,7 @@ using UnityEngine;
 public class Laserspeed1 : MonoBehaviour
 {
     public float speed = 20f;
-    public int damage;
+    public int damage = 5;
     public Rigidbody2D rb;
     public GameObject impactEffect;
 
@@ -21,12 +21,6 @@ public class Laserspeed1 : MonoBehaviour
         if (enemy != null) 
         {
             enemy.TakeDamage(damage);
-        }
-
-        BossHealth boss = hitInfo.GetComponent<BossHealth>();
-        if (boss != null)
-        {
-            boss.TakeDamage(damage);
         }
 
         Instantiate(impactEffect, transform.position, transform.rotation);

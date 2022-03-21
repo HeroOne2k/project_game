@@ -12,7 +12,7 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
   - Player
@@ -22,8 +22,8 @@ TagManager:
   - Enemy
   - PotionHP
   - Shield Take
-  - Boss
-  - Bullet Boss
+  - 
+  - 
   - 
   - 
   - 

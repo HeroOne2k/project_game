@@ -7,12 +7,6 @@ public class BossWeapon : MonoBehaviour
 	public int attackDamage = 5;
 	public int enragedAttackDamage = 10;
 
-	public GameObject Bullet;
-	public Transform Target;
-	public Transform ShootPoint;
-	public float Force;
-
-
 	public Vector3 attackOffset;
 	public float attackRange = 1f;
 	public LayerMask attackMask;
@@ -43,17 +37,7 @@ public class BossWeapon : MonoBehaviour
 		}
 	}
 
-	public void SkillSkeletal()
-    {
-		Vector2 targetPos = Target.position;
-		var Direction = targetPos - (Vector2)transform.position;
-
-		GameObject BulletIns = Instantiate(Bullet, ShootPoint.position, Quaternion.identity);
-		BulletIns.GetComponent<Rigidbody2D>().AddForce(Direction * Force);
-	}
-
-
-    void OnDrawGizmosSelected()
+	void OnDrawGizmosSelected()
 	{
 		Vector3 pos = transform.position;
 		pos += transform.right * attackOffset.x;

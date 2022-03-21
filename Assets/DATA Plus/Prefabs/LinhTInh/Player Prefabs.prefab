@@ -216,6 +216,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   controller: {fileID: 5398256876456971570}
+  joystick: {fileID: 0}
   animator: {fileID: 2729675203161303270}
   runSpeed: 7
   jump: 0
@@ -328,6 +329,7 @@ MonoBehaviour:
   onHealthChanged:
     m_PersistentCalls:
       m_Calls: []
+  shield: {fileID: 0}
   anim: {fileID: 2729675203161303270}
 --- !u!1 &5349617482883840568
 GameObject:
