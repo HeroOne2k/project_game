@@ -12,6 +12,7 @@ public class Scoring : MonoBehaviour
     public TMP_Text scoreText;
 
     private int scoreValue;
+
     public int Score
     {
         get => scoreValue;
