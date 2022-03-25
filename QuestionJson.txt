@@ -1,0 +1,64 @@
+{
+    "collection": [
+        {
+            "questionContent": "What's your name?",
+            "options": [
+                "Gow",
+                "Meo",
+                "Quack",
+                "Un"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "questionContent": "How old are you?",
+            "options": [
+                "20",
+                "21",
+                "22",
+                "23"
+            ],
+            "correctAnswer": 3
+  },
+        {
+            "questionContent": "What is your favourite color?",
+            "options": [
+                "Red",
+                "Green",
+                "Black",
+                "White"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "questionContent": "What is your favourite kind of music?",
+            "options": [
+                "Rock",
+                "Jazz",
+                "Folk",
+                "Punk"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "questionContent": "What is your favourite country?",
+            "options": [
+                "UK",
+                "USA",
+                "Japan",
+                "Korea"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "questionContent": "How many people are there?",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correctAnswer": 1
+     }
+    ]
+}

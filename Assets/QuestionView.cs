@@ -10,6 +10,8 @@ public class QuestionView : MonoBehaviour
     public OptionPanel[] optionPanels;
     public QuestionResultView resultView;
 
+    public GameObject coin;
+
     private Question currentQuestion;
     public void ShowQuestion(int index, Question question)
     {
@@ -37,7 +39,8 @@ public class QuestionView : MonoBehaviour
         var isCorrect = currentQuestion.correctAnswer == index;
         if (isCorrect)
         {
-            Scoring1.Score++;
+            Scoring1.Score += coin.GetComponent<QuestionforPlayer>().coinValue;
+            coin.SetActive(false);
         }
         resultView.Show(isCorrect, currentQuestion.correctAnswer);
         gameObject.SetActive(false);

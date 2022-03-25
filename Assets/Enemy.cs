@@ -8,48 +8,24 @@ public class Enemy : MonoBehaviour
 
     public GameObject deathEffect;
     public GameObject reward;
-    public bool isBoss;
-
-    public bool isInvulnerable = false;
 
     public void TakeDamage(int damage) 
     {
         health -= damage;
 
-        if(isInvulnerable)
+        if (health <= 0) 
         {
-            return;
+            Die();
         }
 
-        if(isBoss == true)
+        void Die() 
         {
-            if (health <= 100)
+            Instantiate(deathEffect, transform.position, Quaternion.identity);
+            if (reward != null)
             {
-                GetComponent<Animator>().SetBool("IsSkill1", true);
+                Instantiate(reward, transform.position, Quaternion.identity);
             }
-            if(health <= 0)
-            {
-                Die();
-            }
-        }else if(isBoss == false)
-        {
-            if (health <= 0)
-            {
-                Die();
-            }
+            Destroy(gameObject);
         }
-
-        
-
-    }
-
-    public void Die()
-    {
-        Instantiate(deathEffect, transform.position, Quaternion.identity);
-        if (reward != null)
-        {
-            Instantiate(reward, transform.position, Quaternion.identity);
-        }
-        Destroy(gameObject);
     }
 }

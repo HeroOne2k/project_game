@@ -90,6 +90,8 @@ public class Playermovement : MonoBehaviour
         }
     }
 
+
+
     private void FixedUpdate()
     {
         //Move character 
